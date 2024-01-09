@@ -6,11 +6,11 @@ Features:
 
 - Backend
 - Frontend
-- 
+  
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/jasarevicarijan/food-order-backendd-frontend.git
+git clone https://github.com/jasarevicarijan/food-order-backend-frontend.git
 ```
 
 ### Install packages
